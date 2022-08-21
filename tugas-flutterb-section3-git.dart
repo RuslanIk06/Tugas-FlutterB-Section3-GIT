@@ -1,5 +1,5 @@
 void main(List<String> args) {
-<<<<<<< HEAD
+  print("Project Kickoff");
   print("Feature A (Login Register)");
   print("Feature A (Login Search)");
   print("Feature A (Sort and Filter)");
@@ -7,4 +7,5 @@ void main(List<String> args) {
   print("Feature B (Read)");
   print("Feature B (Update)");
   print("Feature B (Delete)");
+  print("Project Done");
 }
